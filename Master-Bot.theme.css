@@ -76,7 +76,7 @@
   --user-modal-grayscale: var(--background-grayscale);
   --user-modal-sepia: var(--background-sepia);
   --user-modal-blur: calc(var(--background-blur) + 3px);
-  --home-icon: url(https://i.imgur.com/hjBxTG2.png);
+  --home-icon: url(https://avatarfiles.alphacoders.com/273/273297.png);
   --home-position: center;
   --home-size: 40px;
 }
