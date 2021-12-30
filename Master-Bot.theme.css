@@ -8,8 +8,8 @@
   --success-color: #43b581;
   --danger-color: #982929;
   --channel-unread: var(--main-color);
-  --channel-color: rgba(255,255,255,0.3);
-  --muted-color: rgba(255,255,255,0.1);
+  --channel-color: rgba(0,255,255,0.3);
+  --muted-color: rgba(0,255,255,0.1);
   --channel-text-selected: #fff;
   --url-color: var(--main-color);
   --online-color: #43b581;
@@ -20,8 +20,8 @@
   --main-font: Whitney, Helvetica Neue, Helvetica, Arial, sans-serif;
   --code-font: Consolas, Liberation Mono, Menlo, Courier, monospace;
   --font-display: var(--main-font);
-  --text-normal: rgb(255, 128, 223);
-  --text-muted: rgb(114, 118, 125);
+  --text-normal: rgb(232, 39, 49);
+  --text-muted: rgb(232, 39, 49);
   --channels-width: 220px;
   --members-width: 240px;
   --background-shading: 100%;
